@@ -1,4 +1,4 @@
-# pm
+# PM
 Personal Master
 Currently testing this bot in gg/unifydevs
 
