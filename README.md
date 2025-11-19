@@ -1,6 +1,6 @@
 # PM
 Personal Master
-Currently testing this bot in gg/unifydevs
+Testing occurs in gg/unifydevs and private servers.
 
 ### TODO
 - [x] Decided starting materials
@@ -13,7 +13,7 @@ Currently testing this bot in gg/unifydevs
 - [ ] Public bot with premium features
 
 ## Introduction
-General purpose Discord bot, made in Python, will have different versions in the future, such as TypeScript for further optimizations, as well as Rust—most likely the final version.
+Personalized Discord bot, made in Python, will have different versions in the future.
 
 pm stands for 'personal master', which is the main focus of the bot. To understand each user it is interacting with and give them responses that are based on their preferences to be of better service.
 
@@ -21,7 +21,7 @@ pm stands for 'personal master', which is the main focus of the bot. To understa
 We would like to have open source version to increase development time, however we may focus on also having a closed version sometime in the future.
 
 ## Features
-- Full customization of data per user, server, group.
+- Full data customization per user, server, group.
 - Many features with ability to customize internal commands and functionality with sharable and scalable presets.
 - Intertwine features to allow syncable data reads from other bots.
 - Viewable and sortable analytics, ability to give out an output.
