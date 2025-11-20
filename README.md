@@ -35,4 +35,4 @@ We mostly use Visual Studio Code for the making of this bot, and it is deployed 
 Programmed on Python for flexibility, uses PostgresDB for database handling.
 
 # Libs
-WIP
+WIP and unsure
