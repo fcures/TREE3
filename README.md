@@ -1,5 +1,5 @@
-# PM
-Personal Master
+# TREE3
+Personal Discord Bot
 Test on private servers.
 
 ### TODO
@@ -15,10 +15,10 @@ Test on private servers.
 ## Introduction
 Personalized Discord bot, made in Python, will have different versions in the future.
 
-pm stands for 'personal master', which is the main focus of the bot. To understand each user it is interacting with and give them responses that are based on their preferences to be of better service.
+It understands each user it is interacting with and gives them responses that are based on their preferences to be of better service.
 
 ## Sourcing
-We would like to have open source version to increase development time, however we may focus on also having a closed version sometime in the future.
+I would like to have open source version to increase development time, however it may focus on also having a closed version sometime in the future.
 
 ## Features
 - Full data customization per user, server, group.
@@ -29,9 +29,8 @@ We would like to have open source version to increase development time, however 
 - General built in modular features such as starboards, marketplace features, moderation, feeds, automation, utilities, AI, creative, gamedev related, as well as economy and entertainment related features.
 - And much more.
 
-
 ## Notes
-We mostly use Visual Studio Code for the making of this bot, and it is deployed using Railway.
+Mostly use Visual Studio Code for the making of this bot, and it is deployed using Railway.
 Programmed on Python for flexibility, uses PostgresDB for database handling.
 
 # Libs
